@@ -6,22 +6,6 @@
 
 The Movie Recommendation System is an exciting project that utilizes Python, Pandas, and DeepNote to build a personalized movie recommendation engine. This system analyzes user preferences and recommends movies based on their past ratings and similarities with other users. This article will guide you through the process of setting up and running the recommendation system.
 
-### Installation and Setup
-
-To get started with the Movie Recommendation System, follow these steps:
-
-1. Clone the GitHub repository:
-   ```
-   git clone https://github.com/username/repo.git
-   ```
-2. Install the required dependencies:
-   ```
-   pip install pandas
-   ```
-3. Launch the Jupyter Notebook using DeepNote:
-   - Open [Notebook 1](https://deepnote.com/workspace/username/project/movie-recommendation-system/notebook/Notebook%201) for data preprocessing.
-   - Open [Notebook 2](https://deepnote.com/workspace/username/project/movie-recommendation-system/notebook/Notebook%202) for model building and evaluation.
-
 ### Dataset
 
 The MovieLens dataset is used in this project, containing a large number of movie ratings provided by users. The dataset consists of two CSV files: `movies.csv` and `ratings.csv`. The `movies.csv` file contains movie information, including movie ID and title, while the `ratings.csv` file contains user ratings for each movie.
